@@ -1,2 +1,0 @@
-some text in file2
-new line added after first commit
